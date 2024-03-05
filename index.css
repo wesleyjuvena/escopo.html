@@ -1,0 +1,70 @@
+.header-cabecalho{
+   
+    padding: 80px;
+    background-color:#00c176 ;
+    color:#171430 ;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    border-radius: 100px;
+    border: 20px solid greenyellow;
+}
+
+.header-cabecalho2{
+    padding: 500px;
+    background-image: url(./imagens/formacao_como-escolher-a-melhor-escola-para-os-filhos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+
+.secao1 {
+    background-color: aquamarine;
+    padding: 100px
+    
+}
+
+
+
+
+.div-1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.div-2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(121, 15, 15);
+    
+}
+
+.div-3{
+    width: 200px;
+    height: 200px;
+    background-color: #88a65e;
+    
+}
+
+.div-pai{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    color: aliceblue;
+}
+
+.rodape{
+    padding: 100px;
+    background-color: darkorange;
+    text-align: center;
+}
+
+.rodape img{
+width: 200px;
+height: 200px;
+}
+
+
+
